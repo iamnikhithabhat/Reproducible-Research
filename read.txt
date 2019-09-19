@@ -1,2 +1,0 @@
-Reading csv Data into Data.Table.
-activityDT <- data.table::fread(input = "data/activity.csv")
